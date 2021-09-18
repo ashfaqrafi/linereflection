@@ -125,7 +125,7 @@ export default function ShowData() {
                 ></button>
               </div>
               <div className="modal-body text-center">
-                Your estimated price is $400 <br />
+                Your estimated price is $ <br />
                 Do you want to proceed?
               </div>
               <div className="modal-footer">
@@ -248,7 +248,7 @@ export default function ShowData() {
                 ></button>
               </div>
               <div className="modal-body text-center">
-                Your estimated price is $400 <br />
+                Your estimated price is $ <br />
                 Do you want to proceed?
               </div>
               <div className="modal-footer">
